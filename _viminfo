@@ -1,0 +1,593 @@
+# Ce fichier viminfo a été généré par Vim 8.2.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=latin1
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historique ligne de commande (chronologie décroissante) :
+:w
+|2,0,1602944931,,"w"
+:python3 print(1)
+|2,0,1602943266,,"python3 print(1)"
+:let &pythonthreedll = 'C:\Users\Eliyahou\AppData\Local\Programs\Python\Python37\python37.dll'
+|2,0,1602943252,,"let &pythonthreedll = 'C:\\Users\\Eliyahou\\AppData\\Local\\Programs\\Python\\Python37\\python37.dll'"
+:let &pythonthreedll = "C:\Users\Eliyahou\AppData\Local\Programs\Python\Python37\python37.dll"
+|2,0,1602943225,,"let &pythonthreedll = \"C:\\Users\\Eliyahou\\AppData\\Local\\Programs\\Python\\Python37\\python37.dll\""
+:python3
+|2,0,1602942987,,"python3"
+:q
+|2,0,1602942920,,"q"
+:w AlicesBirthday.py
+|2,0,1602942907,,"w AlicesBirthday.py"
+:w AlicesBirthday
+|2,0,1602942900,,"w AlicesBirthday"
+:w! AlicesBirthday.py
+|2,0,1602942869,,"w! AlicesBirthday.py"
+:w! AlicesBirthday
+|2,0,1602942853,,"w! AlicesBirthday"
+:x
+|2,0,1602942805,,"x"
+:cd
+|2,0,1602942773,,"cd"
+:wd
+|2,0,1602942770,,"wd"
+:!python AlicesBirthday.py
+|2,0,1602942640,,"!python AlicesBirthday.py"
+:f l
+|2,0,1602941250,,"f l"
+:s
+|2,0,1602941046,,"s"
+:# !python
+|2,0,1602938908,,"# !python"
+:cd CompetitivePrograming\
+|2,0,1602937299,,"cd CompetitivePrograming\\"
+:pwd
+|2,0,1602937294,,"pwd"
+:NERDTreeToggle
+|2,0,1602859974,,"NERDTreeToggle"
+:exit
+|2,0,1602859946,,"exit"
+:help jedi-vim.txt
+|2,0,1602859682,,"help jedi-vim.txt"
+:vimtutor
+|2,0,1602808117,,"vimtutor"
+:tutor
+|2,0,1602808086,,"tutor"
+:q!
+|2,0,1602808484,,"q!"
+:e! _vimrc
+|2,0,1602778638,,"e! _vimrc"
+:python3 import sys
+|2,0,1602696660,,"python3 import sys"
+:w !python3
+|2,0,1602696404,,"w !python3"
+:e test.py
+|2,0,1602696342,,"e test.py"
+:PlugInstall
+|2,0,1602695991,,"PlugInstall"
+:e _vimrc
+|2,0,1602695908,,"e _vimrc"
+:w !python3 -i
+|2,0,1602695338,,"w !python3 -i"
+:run test.py
+|2,0,1602695272,,"run test.py"
+:python3 -i test.py
+|2,0,1602695196,,"python3 -i test.py"
+:python -i test.py
+|2,0,1602695173,,"python -i test.py"
+:e _vimrx
+|2,0,1602694971,,"e _vimrx"
+:x _vimrc
+|2,0,1602694955,,"x _vimrc"
+:x 
+|2,0,1602694857,,"x "
+:e! test.py
+|2,0,1602694787,,"e! test.py"
+:e test.py!
+|2,0,1602694780,,"e test.py!"
+:w test.py
+|2,0,1602694762,,"w test.py"
+:colorscheme onehalfdark
+|2,0,1602679711,,"colorscheme onehalfdark"
+:e _gvimrc
+|2,0,1602678967,,"e _gvimrc"
+:version
+|2,0,1602678894,,"version"
+:verison
+|2,0,1602678889,,"verison"
+:colorscheme onehalflight
+|2,0,1602678655,,"colorscheme onehalflight"
+:colorscheme onelightdark
+|2,0,1602678637,,"colorscheme onelightdark"
+:set relativenumber
+|2,0,1602678341,,"set relativenumber"
+:echo exists('+termguicolors')
+|2,0,1602677212,,"echo exists('+termguicolors')"
+:echo exist('+termguicolor')
+|2,0,1602677193,,"echo exist('+termguicolor')"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+"0	CHAR	0
+	def fibo(self, k):
+	    if k <= 1:
+	        return 1 
+	    else:
+	        return fibo(k-1) + fibo(k-2)
+|3,0,0,0,5,0,1602939729,"def fibo(self, k):","    if k <= 1:","        return 1 ","    else:","        return fibo(k-1) + fibo(k-2)"
+""1	LINE	0
+	
+|3,1,1,1,1,0,1602942627,""
+"2	LINE	0
+	        L = self.fibo(k)
+|3,0,2,1,1,0,1602942113,"        L = self.fibo(k)"
+"3	LINE	0
+	                return 0
+|3,0,3,1,1,0,1602941825,"                return 0"
+"4	LINE	0
+	
+|3,0,4,1,1,0,1602941809,""
+"5	LINE	0
+	
+|3,0,5,1,1,0,1602941806,""
+"6	LINE	0
+	                
+|3,0,6,1,1,0,1602941804,"                "
+"7	LINE	0
+	                input(
+|3,0,7,1,1,0,1602941801,"                input("
+"8	CHAR	0
+	sum(L) % 2 != 0:
+	            return (-1,)
+	        else
+|3,0,8,0,3,0,1602941080,"sum(L) % 2 != 0:","            return (-1,)","        else"
+"9	CHAR	0
+	
+	
+	
+	
+	
+|3,0,9,0,5,0,1602940817,"","","","",""
+"-	CHAR	0
+	, 
+|3,0,36,0,1,0,1602942290,", "
+
+# Marques dans le fichier :
+'0  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,48,1,0,1602944953,"~\\CompetitivePrograming\\AlicesBirthday.py"
+'1  1  5  ~\CompetitivePrograming\AlicesBirthday.py
+|4,49,1,5,1602944933,"~\\CompetitivePrograming\\AlicesBirthday.py"
+'2  1  5  ~\CompetitivePrograming\AlicesBirthday
+|4,50,1,5,1602942920,"~\\CompetitivePrograming\\AlicesBirthday"
+'3  10  23  ~\CompetitivePrograming\l
+|4,51,10,23,1602942880,"~\\CompetitivePrograming\\l"
+'4  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,52,1,0,1602942827,"~\\CompetitivePrograming\\AlicesBirthday.py"
+'5  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,53,1,0,1602942827,"~\\CompetitivePrograming\\AlicesBirthday.py"
+'6  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,54,1,0,1602942827,"~\\CompetitivePrograming\\AlicesBirthday.py"
+'7  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,55,1,0,1602942827,"~\\CompetitivePrograming\\AlicesBirthday.py"
+'8  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,56,1,0,1602942827,"~\\CompetitivePrograming\\AlicesBirthday.py"
+'9  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,57,1,0,1602942827,"~\\CompetitivePrograming\\AlicesBirthday.py"
+
+# Liste de sauts (le plus récent en premier) :
+-'  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,39,1,0,1602944953,"~\\CompetitivePrograming\\AlicesBirthday.py"
+-'  1  5  ~\CompetitivePrograming\AlicesBirthday.py
+|4,39,1,5,1602944933,"~\\CompetitivePrograming\\AlicesBirthday.py"
+-'  1  5  ~\CompetitivePrograming\AlicesBirthday
+|4,39,1,5,1602942920,"~\\CompetitivePrograming\\AlicesBirthday"
+-'  1  5  ~\CompetitivePrograming\AlicesBirthday
+|4,39,1,5,1602942920,"~\\CompetitivePrograming\\AlicesBirthday"
+-'  1  5  ~\CompetitivePrograming\AlicesBirthday
+|4,39,1,5,1602942920,"~\\CompetitivePrograming\\AlicesBirthday"
+-'  1  5  ~\CompetitivePrograming\AlicesBirthday
+|4,39,1,5,1602942920,"~\\CompetitivePrograming\\AlicesBirthday"
+-'  10  23  ~\CompetitivePrograming\l
+|4,39,10,23,1602942880,"~\\CompetitivePrograming\\l"
+-'  10  23  ~\CompetitivePrograming\l
+|4,39,10,23,1602942880,"~\\CompetitivePrograming\\l"
+-'  10  23  ~\CompetitivePrograming\l
+|4,39,10,23,1602942880,"~\\CompetitivePrograming\\l"
+-'  10  23  ~\CompetitivePrograming\l
+|4,39,10,23,1602942880,"~\\CompetitivePrograming\\l"
+-'  10  23  ~\CompetitivePrograming\l
+|4,39,10,23,1602942880,"~\\CompetitivePrograming\\l"
+-'  10  23  ~\CompetitivePrograming\l
+|4,39,10,23,1602942880,"~\\CompetitivePrograming\\l"
+-'  10  23  ~\CompetitivePrograming\l
+|4,39,10,23,1602942880,"~\\CompetitivePrograming\\l"
+-'  10  23  ~\CompetitivePrograming\l
+|4,39,10,23,1602942880,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942834,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942834,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942834,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942834,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942834,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942834,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942834,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942834,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,39,1,0,1602942827,"~\\CompetitivePrograming\\AlicesBirthday.py"
+-'  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,39,1,0,1602942827,"~\\CompetitivePrograming\\AlicesBirthday.py"
+-'  1  0  ~\CompetitivePrograming\AlicesBirthday.py
+|4,39,1,0,1602942827,"~\\CompetitivePrograming\\AlicesBirthday.py"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  1  0  ~\CompetitivePrograming\l
+|4,39,1,0,1602942805,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  2  0  ~\CompetitivePrograming\l
+|4,39,2,0,1602942635,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  27  0  ~\CompetitivePrograming\l
+|4,39,27,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  5  0  ~\CompetitivePrograming\l
+|4,39,5,0,1602942634,"~\\CompetitivePrograming\\l"
+-'  16  0  ~\CompetitivePrograming\l
+|4,39,16,0,1602942634,"~\\CompetitivePrograming\\l"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~\CompetitivePrograming\AlicesBirthday.py
+	*	1602944949	0
+	"	1	0
+
+> ~\CompetitivePrograming\AlicesBirthday
+	*	1602942918	0
+	"	1	5
+
+> ~\CompetitivePrograming\l
+	*	1602942877	0
+	"	10	23
+
+> ~\foodcropscompany\foodcrops\__init__.py
+	*	1602859976	0
+	"	1	0
+
+> ~\foodcropscompany\NERD_tree_1
+	*	1602859974	0
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~\.vim\plugged\jedi-vim\doc\jedi-vim.txt
+	*	1602859939	0
+	"	39	0
+
+> C:\Program Files (x86)\Vim\vim82\$tutor$
+	*	1602843876	0
+	"	1	0
+
+> ~\tutor
+	*	1602808478	0
+	"	1	0
+
+> ~\_vimrc
+	*	1602778703	0
+	"	12	6
+	^	12	13
+	.	12	0
+	+	13	0
+	+	1	21
+	+	13	0
+	+	1	21
+	+	4	0
+	+	16	33
+	+	18	26
+	+	1	9
+	+	5	34
+	+	7	35
+	+	3	18
+	+	7	40
+	+	26	4
+	+	26	5
+	+	28	19
+	+	27	0
+	+	28	86
+	+	29	86
+	+	29	10
+	+	29	98
+	+	31	0
+	+	18	26
+	+	55	0
+	+	60	0
+	+	61	0
+	+	70	0
+	+	59	0
+	+	56	1
+	+	50	0
+	+	37	0
+	+	35	0
+	+	37	0
+	+	39	16
+	+	35	0
+	+	50	0
+	+	51	0
+	+	27	0
+	+	18	26
+	+	27	18
+	+	27	0
+	+	36	0
+	+	74	0
+	+	27	0
+	+	78	0
+	+	79	0
+	+	78	0
+	+	31	0
+	+	27	0
+	+	78	0
+	+	79	0
+	+	79	28
+	+	79	0
+	+	79	28
+	+	79	27
+	+	79	28
+	+	79	0
+	+	79	18
+	+	79	4
+	+	79	28
+	+	79	0
+	+	79	28
+	+	78	0
+	+	5	0
+	+	4	0
+	+	6	0
+	+	79	0
+	+	19	3
+	+	20	3
+	+	21	3
+	+	4	0
+	+	22	82
+	+	21	22
+	+	25	1
+	+	23	4
+	+	24	0
+	+	23	14
+	+	76	23
+	+	77	34
+	+	38	17
+	+	39	4
+	+	49	0
+	+	39	0
+	+	40	5
+	+	41	0
+	+	40	35
+	+	77	1
+	+	5	0
+	+	46	5
+	+	45	22
+	+	43	5
+	+	46	1
+	+	10	0
+	+	9	4
+	+	12	0
+	e	7	0
+	j	1	20
+	l	40	0
+	m	4	74
+	p	28	19
+
+> ~\test.py
+	*	1602696653	0
+	"	4	0
+	^	4	0
+	.	4	0
+	+	6	0
+	+	7	0
+	+	1	6
+	+	1	0
+	+	1	18
+	+	4	0
+
+> ~\_vimrx
+	*	1602694971	0
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vim82\doc\map.txt
+	*	1602679455	0
+	"	586	7
+
+> ~\NERD_tree_1
+	*	1602679327	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~\_gvimrc
+	*	1602678989	0
+	"	1	12
+	^	1	13
+	.	1	23
+	+	1	23
+
+> ~\has('pyhton_dynamic')
+	*	1602672441	0
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vim82\README.txt
+	*	1602660917	0
+	"	1	0
+	^	76	29
+	.	76	29
+	+	76	29
+
+> ~\vimtutor
+	*	1602625211	0
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vim82\doc\help.txt
+	*	1601646522	0
+	"	227	0
+
+> ~\Desktop\silver_meal.py
+	*	1601627029	0
+	"	3	4
+	.	2	15
+	+	2	15
+
+> ~\Desktop\.silver_meal.un~
+	*	1601627016	0
+	"	1	0
