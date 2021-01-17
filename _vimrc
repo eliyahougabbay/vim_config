@@ -29,11 +29,8 @@ set pythonthreehome=C:\Users\PC:\Users\Eliyahou\AppData\Local\Programs\Python\Py
 set pythonthreedll=C:\Users\PC:\Users\Eliyahou\AppData\Local\Programs\Python\Python37\python37.dll
 
 " Specify a directory for plugins
-" - For Neovim: stdpath('data') . '/plugged'
-" - Avoid using standard Vim directory names like 'plugin'
 call plug#begin('~/.vim/plugged')
 
-" Make sure you use single quotes
 
 " Colorstatus bar
 Plug 'vim-airline/vim-airline'
